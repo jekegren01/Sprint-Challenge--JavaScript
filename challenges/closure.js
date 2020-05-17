@@ -32,3 +32,4 @@ function summation(number) {
 };
 
 console.log(summation(4));
+console.log(summation(5));
